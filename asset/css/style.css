@@ -1,0 +1,55 @@
+body {
+font-family: 'Open Sans', sans-serif;
+}
+
+.suricata {
+background-color: #E83E8C;
+}
+
+.navbar-brand img {
+max-width:30%;
+}
+
+nav a {
+color: #ffffff!important;
+font-size: 16px;
+font-weight: 400px;
+}
+
+.container h1 {
+color:#707070!important;
+font-size: 60px;
+
+}
+
+.card-body h5 {
+color:#373A3C!important;
+font-size: 17px;
+}
+
+ul {
+color:#373A3C;
+font-size: 16px;
+}
+
+.container-fluid {
+height: 170px;}
+
+i {
+color: #ffffff;
+}
+
+.icons-section {
+background-color: #17A2B8;}
+
+.icons-section h3 {
+font-size: 40px;
+}
+
+footer img {
+  height: 100.45px;
+}
+
+footer {
+height: 184px;
+}
